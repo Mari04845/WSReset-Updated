@@ -1,0 +1,12 @@
+(C) 2022 - 2023 Mariow
+-This is the loader of the exe.
+Writed in MS, loaded with WINLOADER.
+
+{
+ load:winloader.exe
+  seclet interaction with:winloader.exe
+   commit load:initializer.exe
+    load with initializer.exe sysworker.exe
+     exit winloader.exe
+      start load:resetservice.ser with sysworker.exe
+ }

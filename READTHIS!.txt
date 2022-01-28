@@ -1,0 +1,11 @@
+==============================================================WARNING!===========================================================================
+This works with the version 22112.1401.2.0 or above, Windows 10 1809 or later and Windows 11.
+In case this don't work for resetting the Microsoft Store, please get support on the Microsoft's official site.
+If the app Won't launch, please open an issue on my Github.
+
+Github issues: https://github.com/Mari04845/mwrepository/issues
+Microsoft help: https://support.microsoft.com/
+
+
+
+Made by Mariow, don't try to copy me ;)
